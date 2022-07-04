@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.navbar {
+  padding-left: 50px;
+  margin-bottom: 30px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.table a {
+  text-decoration: none;
+}
+
+.table a:hover {
+  text-decoration: underline;
+}
